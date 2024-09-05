@@ -1,0 +1,1 @@
+Hello, my name is Sakshi Shetty. I am a computer science engineer actively seeking job opportunities. I have a strong foundation in Java, intermediate skills in C, and a good understanding of HTML and CSS. I excel in communication, possess strong leadership qualities, and am committed to maintaining a solid work ethic.
